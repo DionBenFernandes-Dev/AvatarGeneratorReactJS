@@ -1,6 +1,6 @@
 # Avatar Generator ReactJS
 
-This repository hosts a React.js application for generating avatars using various sprite types. It offers a user-friendly interface where users can select different sprite types such as human, croodles, bots, adventurer, identicon, shapes, and avatars. The avatars are generated dynamically using the DiceBear Avatar API.<be>
+This repository hosts a React.js application for generating avatars using various sprite types. It offers a user-friendly interface where users can select different sprite types such as human, croodles, bots, adventurer, identicon, shapes, and avatars. The avatars are generated dynamically using the DiceBear Avatar API.<br>
 To try the Avatar Generator ReactJS application, visit the following link: https://dionbenfernandes-dev.github.io/AvatarGeneratorReactJS/
 
 ## Features
