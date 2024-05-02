@@ -21,9 +21,6 @@ This repository hosts a React.js application for generating avatars using variou
 ## Credits
 - DionBenFernandes-Dev - Developer
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contribution
 Contributions are welcome! Feel free to open issues or pull requests.
 
