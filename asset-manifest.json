@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AvatarGeneratorReactJS/static/css/main.decd0219.css",
+    "main.js": "/AvatarGeneratorReactJS/static/js/main.a14a83d2.js",
+    "index.html": "/AvatarGeneratorReactJS/index.html",
+    "main.decd0219.css.map": "/AvatarGeneratorReactJS/static/css/main.decd0219.css.map",
+    "main.a14a83d2.js.map": "/AvatarGeneratorReactJS/static/js/main.a14a83d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.decd0219.css",
+    "static/js/main.a14a83d2.js"
+  ]
+}
